@@ -1,3 +1,0 @@
-# MetrixMuti
-matrix multiplication
-
